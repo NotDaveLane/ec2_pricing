@@ -1,4 +1,4 @@
-# Ec2Pricing
+# ec2_pricing
 
 This gem provides a simple way to retrieve upfront and hourly costs for Amazon EC2 On Demand and Reserved Instances.
 
